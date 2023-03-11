@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "name": "keeper-app-project",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnSorba/Keeper-App-Project.git"
+  },
+  "author": "Daniel Ndanema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnSorba/Keeper-App-Project/issues"
+  },
+  "homepage": "https://github.com/JohnSorba/Keeper-App-Project#readme",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "Keeper-App-Project"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
